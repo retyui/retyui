@@ -6,8 +6,8 @@ Hi there, I'm David an enthusiast developer in love with ~~JavaScript~~ TypesScr
 
 ```js
 var David = {
-    '🌱 age': 25,
-    '⏳ experience': '5 years +',
+    '🌱 age': 26,
+    '⏳ experience': '6 years +',
     '💻 coding on': 'Linux'
 };
 ```
