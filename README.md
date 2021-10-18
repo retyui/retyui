@@ -4,7 +4,7 @@ Hi there, I'm David an enthusiast developer in love with ~~JavaScript~~ TypesScr
 
 ---
 
-```js
+```tsx
 var David = {
     '🌱 age': 26,
     '⏳ experience': '6 years +',
@@ -12,7 +12,8 @@ var David = {
 };
 ```
 
-Currently, I am working within a professional team of engineers in the [<img src="https://d3h0owdjgzys62.cloudfront.net/images/69861/live_cover_art/thumb2x/PD_logo_400.png" width="22" height="22"/> PandaDoc](https://linkedin.com/company/pandadoc). Periodically I help my friends with their project in the psychology sphere [<img src="https://play-lh.googleusercontent.com/w-kpdu08g4NTw3ofJiFmjd7fKoO-beRBSuv_EVWuHSSXyJEK4zAVkvJSNMwmN7oZkg=s180-rw" width="22" height="22"/> Therapy Diaries](https://therapydiaries.app/). Also, don't mind taking the time to open-source of course!
+
+Currently, ~~I am working within a professional team of engineers in the [<img src="https://d3h0owdjgzys62.cloudfront.net/images/69861/live_cover_art/thumb2x/PD_logo_400.png" width="22" height="22"/> PandaDoc](https://linkedin.com/company/pandadoc)~~ **UPD:** Open to Work!. Periodically I help my friends with their project in the psychology sphere [<img src="https://play-lh.googleusercontent.com/w-kpdu08g4NTw3ofJiFmjd7fKoO-beRBSuv_EVWuHSSXyJEK4zAVkvJSNMwmN7oZkg=s180-rw" width="22" height="22"/> Therapy Diaries](https://therapydiaries.app/). Also, don't mind taking the time to open-source of course!
 
 ### 📰 Blog posts
 
