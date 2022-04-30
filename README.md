@@ -13,7 +13,7 @@ var David = {
 ```
 
 
-Currently, ~~I am working within a professional team of engineers in the [<img src="https://d3h0owdjgzys62.cloudfront.net/images/69861/live_cover_art/thumb2x/PD_logo_400.png" width="22" height="22"/> PandaDoc](https://linkedin.com/company/pandadoc)~~ **UPD:** Open to Work!. Periodically I help my friends with their project in the psychology sphere [<img src="https://play-lh.googleusercontent.com/w-kpdu08g4NTw3ofJiFmjd7fKoO-beRBSuv_EVWuHSSXyJEK4zAVkvJSNMwmN7oZkg=s180-rw" width="22" height="22"/> Therapy Diaries](https://theradiaries.app/). Also, don't mind taking the time to open-source of course!
+Currently, I am working within a professional team of engineers in the [<img src="https://images.squarespace-cdn.com/content/v1/613d7c75b31aba7442e4487f/299f50ca-182a-46c7-8000-3a15cc35f8f3/Frame+2.png?format=1500w" width="22" height="22"/> Spotnana](https://www.linkedin.com/company/spotnanatechnology). Also, I help my friends with their own project in the psychology sphere [<img src="https://play-lh.googleusercontent.com/w-kpdu08g4NTw3ofJiFmjd7fKoO-beRBSuv_EVWuHSSXyJEK4zAVkvJSNMwmN7oZkg=s180-rw" width="22" height="22"/> Therapy Diaries](https://theradiaries.app/). Also, don't mind taking the time to open-source of course!
 
 ### 📰 Blog posts
 
