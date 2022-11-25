@@ -1,6 +1,6 @@
-# David Narbutovich 👨‍💻👋
+# Davyd NRB 👨‍💻👋
 
-Hi there, I'm David an enthusiast developer in love with ~~JavaScript~~ TypesScript!
+Hi there, I'm Davyd an enthusiast developer in love with ~~JavaScript~~ TypesScript!
 
 ---
 
