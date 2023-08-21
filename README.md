@@ -1,19 +1,19 @@
 # Davyd NRB 👨‍💻👋
 
-Hi there, I'm Davyd an enthusiast developer in love with ~~JavaScript~~ TypesScript!
+Hi there, I'm Davyd, an enthusiast developer in love with ~~JavaScript~~ TypesScript!
 
 ---
 
 ```tsx
 var David = {
-    '🌱 age': 27,
-    '⏳ experience': '6 years +',
+    '🌱 age': 28,
+    '⏳ experience': '7 years +',
     '💻 coding on': 'Linux'
 };
 ```
 
+I'm currently employed by a qualified engineering team in the [<img src="https://global-uploads.webflow.com/5f58b425f8d1c77413f14703/5fb3f4bf7e198b364b8f191c_favicon-32x32.png" width="22" height="22"/> Callstack](https://www.linkedin.com/company/spotnanatechnology). Additionally, I support my friends as they work on their own [<img src="https://play-lh.googleusercontent.com/w-kpdu08g4NTw3ofJiFmjd7fKoO-beRBSuv_EVWuHSSXyJEK4zAVkvJSNMwmN7oZkg=s180-rw" width="22" height="22"/> Therapy Diaries](https://theradiaries.app/) project in the psychology field. Don't hesitate to open-source your work, of course!
 
-Currently, I am working within a professional team of engineers in the [<img src="https://images.squarespace-cdn.com/content/v1/613d7c75b31aba7442e4487f/299f50ca-182a-46c7-8000-3a15cc35f8f3/Frame+2.png?format=1500w" width="22" height="22"/> Spotnana](https://www.linkedin.com/company/spotnanatechnology). Also, I help my friends with their own project in the psychology sphere [<img src="https://play-lh.googleusercontent.com/w-kpdu08g4NTw3ofJiFmjd7fKoO-beRBSuv_EVWuHSSXyJEK4zAVkvJSNMwmN7oZkg=s180-rw" width="22" height="22"/> Therapy Diaries](https://theradiaries.app/). Also, don't mind taking the time to open-source of course!
 
 ### 📰 Blog posts
 
