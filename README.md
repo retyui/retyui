@@ -12,7 +12,7 @@ var David = {
 };
 ```
 
-I'm currently employed by a qualified engineering team in the [<img src="https://global-uploads.webflow.com/5f58b425f8d1c77413f14703/5fb3f4bf7e198b364b8f191c_favicon-32x32.png" width="22" height="22"/> Callstack](https://www.linkedin.com/company/spotnanatechnology). Additionally, I support my friends as they work on their own [<img src="https://play-lh.googleusercontent.com/w-kpdu08g4NTw3ofJiFmjd7fKoO-beRBSuv_EVWuHSSXyJEK4zAVkvJSNMwmN7oZkg=s180-rw" width="22" height="22"/> Therapy Diaries](https://theradiaries.app/) project in the psychology field. Don't hesitate to open-source your work, of course!
+I'm currently employed by a qualified engineering team in the [<img src="https://global-uploads.webflow.com/5f58b425f8d1c77413f14703/5fb3f4bf7e198b364b8f191c_favicon-32x32.png" width="22" height="22"/> Callstack](https://www.linkedin.com/company/callstack/). Additionally, I support my friends as they work on their own [<img src="https://play-lh.googleusercontent.com/w-kpdu08g4NTw3ofJiFmjd7fKoO-beRBSuv_EVWuHSSXyJEK4zAVkvJSNMwmN7oZkg=s180-rw" width="22" height="22"/> Therapy Diaries](https://theradiaries.app/) project in the psychology field. Don't hesitate to open-source your work, of course!
 
 
 ### 📰 Blog posts
