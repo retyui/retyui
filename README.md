@@ -7,7 +7,7 @@ Hi there, I'm Davyd, an enthusiast developer in love with ~~JavaScript~~ TypesSc
 ```tsx
 var David = {
     '🌱 age': 28,
-    '⏳ experience': '7 years +',
+    '⏳ experience': '8 years +',
     '💻 coding on': 'Linux'
 };
 ```
