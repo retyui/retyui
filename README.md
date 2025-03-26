@@ -6,8 +6,8 @@ Hi there, I'm Davyd, an enthusiast developer in love with ~~JavaScript~~ TypesSc
 
 ```tsx
 var David = {
-    '🌱 age': 28,
-    '⏳ experience': '8 years +',
+    '🌱 age': 29,
+    '⏳ experience': '9 years +',
     '💻 coding on': 'Linux'
 };
 ```
